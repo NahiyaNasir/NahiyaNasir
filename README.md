@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahiya Nasir</h1>
+<h1 align="right"> About Me:</h1>
 <h3 align="center">A passionate frontend developer .Transforming Ideas into Digital Reality. Passionate About Code.</h3>
 
 - 🌱 I’m currently learning **next.js**
