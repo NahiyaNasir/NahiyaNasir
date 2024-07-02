@@ -6,7 +6,7 @@
  
 ##   <h2 align=" center">👀 Over View </h2>
 
-<h1 align="center">Hi 👋, I'm Nahiya Nasir</h1
+<h1 align="center">         <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/>Hi, I'm Nahiya Nasir</h1
 >
 
 <p align="center" >
