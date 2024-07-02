@@ -4,7 +4,7 @@
 <h3 align="center" >
   A passionate frontend developer .Transforming Ideas into Digital Reality. Passionate About Code.</h3>
   
-## <img src="https://giphy.com/gifs/eyes-see-you-u-sHNCX4Q47hEZZkmLra" height="40px" width="40px" />  OverView
+## <img src="https://giphy.com/gifs/eyes-see-you-u-sHNCX4Q47hEZZkmLra" />  OverView
 
 - 🌱 I’m currently learning **next.js**
 
