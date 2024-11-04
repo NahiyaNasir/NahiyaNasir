@@ -1,6 +1,6 @@
 
 
-<img src="[https://i.ibb.co/gwr8Cwd/Mason-4.png](https://www.canva.com/design/DAGVjH8yeNA/Xu3jjiwf_uGuAeYjKzjBlA/view?utm_content=DAGVjH8yeNA&utm_campaign=designshare&utm_medium=link&utm_source=editor)" />
+<img src="https://i.ibb.co.com/9yGZzWs/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" />
 <hr/>
                                           
  
