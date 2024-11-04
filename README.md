@@ -1,12 +1,12 @@
 
 
-<img src="https://i.ibb.co/gwr8Cwd/Mason-4.png" />
+<img src="[https://i.ibb.co/gwr8Cwd/Mason-4.png](https://www.canva.com/design/DAGVjH8yeNA/Xu3jjiwf_uGuAeYjKzjBlA/view?utm_content=DAGVjH8yeNA&utm_campaign=designshare&utm_medium=link&utm_source=editor)" />
 <hr/>
                                           
  
 ##   <h2 align=" center">👀 Over View </h2>
 
-<h1 align="center">         <img src="https://www.canva.com/design/DAGVjH8yeNA/Xu3jjiwf_uGuAeYjKzjBlA/view?utm_content=DAGVjH8yeNA&utm_campaign=designshare&utm_medium=link&utm_source=editor" height="40px" width="40px"/>Hi, I'm Nahiya Nasir</h1
+<h1 align="center">         <img src="" height="40px" width="40px"/>Hi, I'm Nahiya Nasir</h1
 >
 
 <p align="center" >
