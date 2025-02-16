@@ -13,7 +13,7 @@
   A passionate Web developer .Transforming Ideas into Digital Reality. </p>
 
 
-- 🌱 I’m currently learning and working on a team project with **React Js**
+- 🌱 I’m currently learning and working on a  project with **Next Js & Type Script** 
 
 
 
