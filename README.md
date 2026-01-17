@@ -30,10 +30,7 @@
 <h2 align="center">📈 Stats </h2>
 <br>
 <div align="center">
- <!-- <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=nahiyanasir&" alt="nahiyanasir" />
 
-<!-- <img width="390" src="https://github-readme-stats.vercel.app/api?username=nahiyanasir&show_icons=true&rank_icon=github" /> -->
-<!-- <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahiyanasir&show_icons=true&locale=en&layout=compact" alt="nahiyanasir" /></p> --> -->
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=nahiyanasir&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyanasir&layout=compact" />
