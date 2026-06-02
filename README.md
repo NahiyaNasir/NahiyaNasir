@@ -33,6 +33,8 @@ A passionate full-stack software developer dedicated to building scalable web ap
 
 ### 📊 GitHub Stats
 
-[![Nahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahiyaNasir&show_icons=true&theme=dark)](https://github.com/NahiyaNasir)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NahiyaNasir&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NahiyaNasir&layout=compact&theme=dark" alt="Top Languages" height="150" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahiyaNasir&layout=compact&theme=dark)](https://github.com/NahiyaNasir)
