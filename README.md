@@ -4,35 +4,36 @@
 <hr/>
                                           
  
-##   <h2 align=" center">👀 Over View </h2>
+# Hi there, I'm Nahia Nasir 👋
 
-<h1 align="center">     👋   Hi, I'm Nahiya Nasir</h1
->
+A passionate full-stack software developer dedicated to building scalable web applications and transforming complex ideas into clean, digital reality.
 
-<p align="center" >
-  A passionate Web developer .Transforming Ideas into Digital Reality. </p>
+- 🚀 I’m currently engineering production-ready applications using **Next.js** and **TypeScript**.
+- ✉️ How to reach me: **nahiaesha.01@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/nahia-nasir5866](https://linkedin.com/in/nahia-nasir5866)
 
+---
 
-- 🌱 I’m currently learning and working on a  project with **Next Js & Type Script** 
+### 🛠️ Tech Stack & Tools
 
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+**Backend & Databases:**
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-- 📫 How to reach me **nahiaesha.01@gmail.com**
+---
 
-##
+### 📊 GitHub Stats
 
-<h3 align="center"> 💻 Familiar-Tech/Skills: 💻</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NahiyaNasir&show_icons=true&theme=dark" alt="Nahia's GitHub Stats" height="150" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=NahiyaNasir&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
-<br/>
-
-<h2 align="center">📈 Stats </h2>
-<br>
-<div align="center">
-
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=nahiyanasir&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyanasir&layout=compact" />
-<img src="https://streak-stats.demolab.com?user=nahiyanasir" />
-
