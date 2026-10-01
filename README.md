@@ -1,5 +1,6 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_uyqkfzuyqkfzuyqk" src="https://github.com/user-attachments/assets/4b73384d-231c-4f9d-a061-6ea4b45c121c" />
 
+
+<img width="1500" height="500" alt="github_banner" src="https://github.com/user-attachments/assets/0987bdd0-9d29-417a-b717-110e3e71e877" />
 
 <!-- <img src="https://i.ibb.co.com/9yGZzWs/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" /> -->
 <hr/>
