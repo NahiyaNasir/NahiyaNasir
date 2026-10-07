@@ -6,7 +6,7 @@
 <hr/>
                                           
  
-# Hi there, I'm Nahia Nasir 👋
+# Hi there, I'm Nahiya 👋
 
 Full-stack developer, self-taught through building deployed production-style applications using React.js, Next.js,
 TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and Prisma ORM. Experienced in RESTful API design,
