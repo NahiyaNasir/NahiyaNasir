@@ -23,10 +23,15 @@ an engineering team.
 
 ---
 
-### 🚀 What I'm Up To
- **Currently learning:  *CI/CD, TESTING DEVOPS*.
- 
- **Focus areas: *Building system design , improve soft skill database structure*.
+## 🚀 What I'm Up To
+
+**🌱 Currently Learning**
+CI/CD pipelines · Software Testing · DevOps practices
+
+**🎯 Focus Areas**
+- Designing scalable systems and software architecture
+- Database schema design and data modeling
+- Strengthening communication and collaboration skills
 
 ---
 
