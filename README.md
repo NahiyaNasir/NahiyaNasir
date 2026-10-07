@@ -8,8 +8,10 @@
  
 # Hi there, I'm Nahia Nasir 👋
 
-A passionate full-stack software developer dedicated to building scalable web applications and transforming complex ideas into clean, digital reality.
-
+Full-stack developer, self-taught through building deployed production-style applications using React.js, Next.js,
+TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and Prisma ORM. Experienced in RESTful API design,
+authentication, payment integration, and admin dashboards. Looking for a junior/entry-level role to grow within
+an engineering team.
 <p align="left">
   <a href="mailto:nahiaaesha.01@gmail.com">
     <img src="https://img.shields.io/badge/Email-nahiaaesha.01%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -22,8 +24,8 @@ A passionate full-stack software developer dedicated to building scalable web ap
 ---
 
 ### 🚀 What I'm Up To
-* **Currently learning: *CI/CD, TESTING DEVOPS*.
-* **Focus areas:*Building systemdesign , improve softskill database structure* .
+ **Currently learning:  *CI/CD, TESTING DEVOPS*.
+ **Focus areas: *Building system design , improve soft skill database structure*.
 
 ---
 
