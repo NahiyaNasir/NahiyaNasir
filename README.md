@@ -22,8 +22,8 @@ A passionate full-stack software developer dedicated to building scalable web ap
 ---
 
 ### 🚀 What I'm Up To
-* **Currently engineering:** High-performance, production-ready web applications leveraging **Next.js** and **TypeScript**.
-* **Focus areas:** Building robust APIs, optimizing database schemas, and crafting seamless, modern user interfaces.
+* **Currently learning: *CI/CD, TESTING DEVOPS*.
+* **Focus areas:*Building systemdesign , improve softskill database structure* .
 
 ---
 
